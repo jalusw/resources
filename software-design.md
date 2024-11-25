@@ -8,3 +8,5 @@
 ## Diagramming
 - [Mermaid.js](https://mermaid.js.org/)
 - [Mingrammer](https://diagrams.mingrammer.com/)
+- [Markmap.js](https://markmap.js.org/)
+- [Plantuml](https://plantuml.com/)
